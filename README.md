@@ -2,9 +2,9 @@
 
 <p align=center>
   Working on :
-  - 🪸 Euphillia Network
-  - 🔉 Domophone
-  - 🦋 Hypernote 
+  <br>- 🪸 Euphillia Network
+  <br>- 🔉 Domophone
+  <br>- 🦋 Hypernote 
 </p>
 
 <p align="center">
