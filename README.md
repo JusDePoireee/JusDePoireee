@@ -15,6 +15,6 @@ Working on :
 <h1 align=center>✨ What I use 🧪</h1>
 <p align = "center">
        <a href="https://github.com/jusdepoireee/">
-          <img src="https://skillicons.dev/icons?i=cpp,apple,clion,discord,css,github,githubactions,html,react,idea,java,kotlin,nextjs,notion,ps,python,pycharm,tailwind,twitter,ts,webstorm,npm,vercel,figma,nginx,windows,linux,gradle&perline=13"/> 
+          <img src="https://skillicons.dev/icons?i=cpp,apple,clion,discord,css,github,githubactions,html,react,idea,java,kotlin,nextjs,notion,ps,python,pycharm,tailwind,twitter,ts,webstorm,npm,vercel,figma,nginx,windows,linux,gradle&theme=dark&perline=10"/> 
       </a>
 </p>
