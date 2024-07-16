@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align=center>👋 Hey, I'm JusDePoire</h1>
 
-<!--
-**JusDePoireee/JusDePoireee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Working on :
+  - 🪸 Euphillia Network
+  - 🔉 Domophone
+  - 🦋 Hypernote 
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://euphillia.fr">Euphillia Website</a> |
+  <a href="https://domophone.euphillia.fr/">Domophone </a> |
+  <a href="https://twitter.com/jusdepoire_">𝕏</a> |
+  <a href="https://bento.me/jusdepoire">Bento</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align=center>✨ What I use 🧪</h1>
+<p align = "center">
+       <a href="https://github.com/jusdepoireee/">
+          <img src="https://skillicons.dev/icons?i=cpp,apple,clion,discord,css,github,githubactions,html,react,idea,java,kotlin,nextjs,notion,ps,python,pycharm,tailwind,twitter,ts,webstorm&perline=13"/> 
+      </a>
+</p>
