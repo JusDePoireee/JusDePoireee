@@ -1,9 +1,11 @@
 <h1 align=center>👋 Hey, I'm JusDePoire</h1>
 
-Working on :
+<p align=center>
+  Working on :
   - 🪸 Euphillia Network
   - 🔉 Domophone
   - 🦋 Hypernote 
+</p>
 
 <p align="center">
   <a href="https://euphillia.fr">🪸 Euphillia Website</a> -
