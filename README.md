@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://euphillia.fr">🪸 Euphillia Website</a> -
-  <a href="https://domophone.euphillia.fr/">🔉 Domophone </a> -
+  <a href="https://domophone.euphillia.fr/">🔉 Domophone Website</a> -
   <a href="https://twitter.com/jusdepoire_">𝕏</a> -
   <a href="https://bento.me/jusdepoire">Bento</a>
 </p>
