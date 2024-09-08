@@ -20,7 +20,7 @@
           <img src="https://skillicons.dev/icons?i=clion,idea,webstorm,figma,notion&theme=dark&perline=15"/> 
       </a>
 </p>
-<h2 align=left>⌨️ My tech stack</h2>
+<h2 align=left>🧪 My tech stack</h2>
 <p align = "left">
        <a href="https://github.com/jusdepoireee/">
           <img src="https://skillicons.dev/icons?i=cpp,c,kotlin,html,css,js,gtk,cmake,gradle,github&theme=dark&perline=15"/> 
