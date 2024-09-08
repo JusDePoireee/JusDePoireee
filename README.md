@@ -14,9 +14,27 @@
   <a href="https://bento.me/jusdepoire">Bento</a>
 </p>
 
-<h1 align=center>✨ What I use 🧪</h1>
-<p align = "center">
+<h2 align=left>👨‍💻 Software that I use</h2>
+<p align = "left">
        <a href="https://github.com/jusdepoireee/">
-          <img src="https://skillicons.dev/icons?i=cpp,apple,clion,discord,css,github,githubactions,html,react,idea,java,kotlin,nextjs,notion,ps,python,pycharm,tailwind,twitter,ts,webstorm,npm,vercel,figma,nginx,windows,linux,gradle,cloudflare,electron&theme=dark&perline=15"/> 
+          <img src="https://skillicons.dev/icons?i=clion,pycharm,idea,webstorm,figma,notion,photoshop&theme=dark&perline=15"/> 
+      </a>
+</p>
+<h2 align=left>⌨️ My tech stack</h2>
+<p align = "left">
+       <a href="https://github.com/jusdepoireee/">
+          <img src="https://skillicons.dev/icons?i=cpp,c,kotlin,html,css,js,gtk,cmake,gradle,github&theme=dark&perline=15"/> 
+      </a>
+</p>
+<h2 align=left>💻 Platforms</h2>
+<p align = "left">
+       <a href="https://github.com/jusdepoireee/">
+          <img src="https://skillicons.dev/icons?i=apple,linux&theme=dark&perline=15"/> 
+      </a>
+</p>
+<h2 align=left>🌐 Socials</h2>
+<p align = "left">
+       <a href="https://github.com/jusdepoireee/">
+          <img src="https://skillicons.dev/icons?i=twitter,discord&theme=dark&perline=15"/> 
       </a>
 </p>
