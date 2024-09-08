@@ -17,7 +17,7 @@
 <h2 align=left>👨‍💻 Software that I use</h2>
 <p align = "left">
        <a href="https://github.com/jusdepoireee/">
-          <img src="https://skillicons.dev/icons?i=clion,pycharm,idea,webstorm,figma,notion,photoshop&theme=dark&perline=15"/> 
+          <img src="https://skillicons.dev/icons?i=clion,idea,webstorm,figma,notion&theme=dark&perline=15"/> 
       </a>
 </p>
 <h2 align=left>⌨️ My tech stack</h2>
