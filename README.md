@@ -4,7 +4,6 @@
   Working on :
   <br>- 🪸 Euphillia Network
   <br>- 🔉 Domophone
-  <br>- 🦋 Hypernote 
 </p>
 
 <p align="center">
