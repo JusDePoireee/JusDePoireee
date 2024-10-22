@@ -22,7 +22,7 @@
 <h2 align=left>🧪 My tech stack</h2>
 <p align = "left">
        <a href="https://github.com/jusdepoireee/">
-          <img src="https://skillicons.dev/icons?i=cpp,c,kotlin,rust,gtk,cmake,gradle,github&theme=dark&perline=15"/> 
+          <img src="https://skillicons.dev/icons?i=cpp,c,rust,kotlin,gtk,cmake,gradle,github&theme=dark&perline=15"/> 
       </a>
 </p>
 <h2 align=left>💻 Platforms</h2>
