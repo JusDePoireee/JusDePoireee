@@ -16,24 +16,24 @@
 <h2 align=left>👨‍💻 Software that I use</h2>
 <p align = "left">
        <a href="https://github.com/jusdepoireee/">
-          <img src="https://skillicons.dev/icons?i=clion,idea,webstorm,visualstudio,figma,notion&theme=dark&perline=15"/> 
+          <img src="https://skills.syvixor.com/api/icons?i=clion,idea,webstorm,visualstudio,figma,notion&theme=dark&perline=15"/> 
       </a>
 </p>
 <h2 align=left>🧪 My tech stack</h2>
 <p align = "left">
        <a href="https://github.com/jusdepoireee/">
-          <img src="https://skillicons.dev/icons?i=cpp,c,cs,go,kotlin,cmake,gradle,mongodb,github&theme=dark&perline=15"/> 
+          <img src="https://skills.syvixor.com/api/icons?i=cpp,c,cs,go,kotlin,cmake,gradle,mongodb,github&theme=dark&perline=15"/> 
       </a>
 </p>
 <h2 align=left>💻 Platforms</h2>
 <p align = "left">
        <a href="https://github.com/jusdepoireee/">
-          <img src="https://skillicons.dev/icons?i=apple,linux&theme=dark&perline=15"/> 
+          <img src="https://skills.syvixor.com/api/icons?i=apple,linux&theme=dark&perline=15"/> 
       </a>
 </p>
 <h2 align=left>🌐 Socials</h2>
 <p align = "left">
        <a href="https://github.com/jusdepoireee/">
-          <img src="https://skillicons.dev/icons?i=twitter,discord&theme=dark&perline=15"/> 
+          <img src="https://skills.syvixor.com/api/icons?i==twitter,discord&theme=dark&perline=15"/> 
       </a>
 </p>
