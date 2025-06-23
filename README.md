@@ -16,7 +16,7 @@
 <h2 align=left>👨‍💻 Software that I use</h2>
 <p align = "left">
        <a href="https://github.com/jusdepoireee/">
-          <img src="https://skills.syvixor.com/api/icons?i=clion,idea,webstorm,goland,visualstudio,figma,notion,arc&theme=dark&perline=15"/> 
+          <img src="https://skills.syvixor.com/api/icons?i=clion,intellij,webstorm,goland,visualstudio,figma,notion,arc&theme=dark&perline=15"/> 
       </a>
 </p>
 <h2 align=left>🧪 My tech stack</h2>
