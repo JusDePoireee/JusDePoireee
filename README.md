@@ -13,27 +13,23 @@
   <a href="https://bento.me/jusdepoire">Bento</a>
 </p>
 
-<h2 align=left>👨‍💻 Software that I use</h2>
+### I use  ↘︎
 <p align = "left">
        <a href="https://github.com/jusdepoireee/">
           <img src="https://skills.syvixor.com/api/icons?i=clion,intellij,webstorm,goland,visualstudio,figma,notion,arc&theme=dark&perline=15&radius=70"/> 
       </a>
 </p>
-<h2 align=left>🧪 My tech stack</h2>
+
+### My stack  ↘︎
 <p align = "left">
        <a href="https://github.com/jusdepoireee/">
           <img src="https://skills.syvixor.com/api/icons?i=cpp,c,csharp,go,kotlin,cmake,gradle,mongodb,github&theme=dark&perline=15&radius=70"/> 
       </a>
 </p>
-<h2 align=left>💻 Platforms</h2>
+
+### Platforms  ↘︎
 <p align = "left">
        <a href="https://github.com/jusdepoireee/">
           <img src="https://skills.syvixor.com/api/icons?i=apple,linux&theme=dark&perline=15&radius=70"/> 
-      </a>
-</p>
-<h2 align=left>🌐 Socials</h2>
-<p align = "left">
-       <a href="https://github.com/jusdepoireee/">
-          <img src="https://skills.syvixor.com/api/icons?i==twitter,discord&theme=dark&perline=15&radius=70"/> 
       </a>
 </p>
