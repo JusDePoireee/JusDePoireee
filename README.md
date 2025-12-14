@@ -1,9 +1,9 @@
 <h1>👋 Hey, I'm JusDePoire</h1>
 
 
-#### Working on ↘︎
-- 🪸 Euphillia Network
-- 🔉 Domophone
+#### I'm a student and I build ↘︎
+- Euphillia, a modded Minecraft server based on Fabric 1.21.1
+- Domophone, a next generation doorbell
 
 #### My Software  ↘︎
 <p align = "left">
