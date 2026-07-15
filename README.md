@@ -15,14 +15,14 @@
 #### I usually use  ↘︎
 <p align = "left">
        <a href="https://github.com/jusdepoireee/">
-          <img src="https://skills.syvixor.com/api/icons?i=cpp,rust,vuejs,go,java&theme=dark&perline=15&radius=70"/> 
+          <img src="https://skills.syvixor.com/api/icons?i=cpp,typescript,go,rust,java&theme=dark&perline=15&radius=70"/> 
       </a>
 </p>
 
 #### I build apps with ↘︎
 <p align = "left">
        <a href="https://github.com/jusdepoireee/">
-          <img src="https://skills.syvixor.com/api/icons?i=nuxtjs,swiftui,winui,tauri&theme=dark&perline=15&radius=70"/> 
+          <img src="https://skills.syvixor.com/api/icons?i=vuejs,nuxtjs,tauri&theme=dark&perline=15&radius=70"/> 
       </a>
 </p>
 
@@ -33,11 +33,7 @@
       </a>
 </p>
 
-#### Some cool links ↘︎
+#### Some projects ↘︎
 
-- <a href="https://euphillia.fr">🪸 Euphillia Website</a>
-- <a href="https://domophone.xyz/">🔉 Domophone Website</a>
-- <a href="https://twitter.com/jusdepoire_">𝕏</a>
-- <a href="https://bento.me/jusdepoire">Bento</a>
-
+[![badge](https://shieldcn.dev/badge/Euphillia-00D3F2.svg?size=default&font=geist&logo=lu%3APickaxe&logoColor=171717&valueColor=171717&height=35&padX=13&labelGap=6)](https://euphillia.fr) [![badge](https://shieldcn.dev/badge/Domophone-FBBF24.svg?size=default&font=geist&logo=lu%3AVolume2&logoColor=171717&valueColor=171717&height=35&padX=13&labelGap=6)](https://domophone.xyz)
 
