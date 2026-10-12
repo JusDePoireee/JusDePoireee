@@ -8,14 +8,14 @@
 #### My Software  ↘︎
 <p align = "left">
        <a href="https://github.com/jusdepoireee/">
-          <img src="https://skills.syvixor.com/api/icons?i=clion,goland,intellij,zed,arc&theme=dark&perline=15&radius=70"/> 
+          <img src="https://skills.syvixor.com/api/icons?i=clion,goland,intellij,zed&theme=dark&perline=15&radius=70"/> 
       </a>
 </p>
 
 #### I usually use  ↘︎
 <p align = "left">
        <a href="https://github.com/jusdepoireee/">
-          <img src="https://skills.syvixor.com/api/icons?i=cpp,typescript,go,rust,java&theme=dark&perline=15&radius=70"/> 
+          <img src="https://skills.syvixor.com/api/icons?i=go,rust,java&theme=dark&perline=15&radius=70"/> 
       </a>
 </p>
 
